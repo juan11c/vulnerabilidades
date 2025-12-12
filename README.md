@@ -1,2 +1,2 @@
 # vulnerabilidades
-proyecto para resolver vulnerabikidades
+proyecto para resolver vulnerabilidades
